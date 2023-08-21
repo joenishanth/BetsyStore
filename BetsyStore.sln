@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetsyStore.DataAccess", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetsyStore.Models", "..\BetsyStore.Models\BetsyStore.Models.csproj", "{81601FB2-E8B6-4E3F-9FBE-88DA35DB46AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betsy.Utility", "..\Betsy.Utility\Betsy.Utility.csproj", "{56C4231E-571E-41F1-8E3B-5E4E0F247769}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetsyStore.Utility", "..\Betsy.Utility\BetsyStore.Utility.csproj", "{56C4231E-571E-41F1-8E3B-5E4E0F247769}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
